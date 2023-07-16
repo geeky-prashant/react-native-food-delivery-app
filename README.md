@@ -14,7 +14,7 @@
 
 ### Demo Screenshot
 
-![React Native Food Delivery App Demo](./readme-images/Glassmorphism-Profile-Card.png "Desktop Demo")
+![React Native Food Delivery App Demo](./readme-images/React-Native-Food-Delivery-App.png "Desktop Demo")
 
 ## Get Started
 
