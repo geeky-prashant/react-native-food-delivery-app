@@ -14,7 +14,7 @@
 
 ### Demo Screenshot
 
-![Glassmorphism Profile Card Desktop Demo](./readme-images/Glassmorphism-Profile-Card.png "Desktop Demo")
+![React Native Food Delivery App Demo](./readme-images/Glassmorphism-Profile-Card.png "Desktop Demo")
 
 ## Get Started
 
