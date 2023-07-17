@@ -5,6 +5,7 @@ import CartScreen from "./screens/CartScreen";
 import { NavigationContainer } from "@react-navigation/native";
 import OrderPreparing from "./screens/OrderPreparing";
 import DeliveryScreen from "./screens/DeliveryScreen";
+import LandingScreen from "./screens/LandingScreen";
 
 const Stack = createNativeStackNavigator();
 
@@ -16,6 +17,7 @@ const Navigation = () => {
           headerShown: false,
         }}
       >
+        <Stack.Screen name="Landing" component={LandingScreen} />
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="Restaurant" component={RestaurantScreen} />
         <Stack.Screen
