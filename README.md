@@ -8,7 +8,7 @@
 
   <h2 align="center">React Native Food Delivery App</h2>
 
-  In this project, I have created a Fitness App, The project is built using Expo, React Native, and React Native Navigation.
+  In this project, I have created a Food Delivery App, The project is built using Expo, React Native, and React Native Navigation.
 
 </div>
 
