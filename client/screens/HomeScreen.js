@@ -1,6 +1,5 @@
 import { TextInput, View, Text, ScrollView } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import { StatusBar } from "expo-status-bar";
 import * as Icon from "react-native-feather";
 import { themeColors } from "../theme";
 import Categories from "../components/categories";
@@ -20,7 +19,6 @@ const HomeScreen = () => {
 
   return (
     <SafeAreaView className="bg-white">
-      <StatusBar barStyle="dark-content" />
 
       {/* Search Bar  */}
       <View className="flex-row items-center space-x-2 p-4">

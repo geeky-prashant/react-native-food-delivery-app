@@ -6,8 +6,6 @@ import {
   Image,
   Dimensions,
   Animated,
-  StatusBar,
-  FlatList,
   TouchableOpacity,
 } from "react-native";
 
@@ -103,7 +101,6 @@ function LandingScreen({ navigation }) {
   const scrollX = useRef(new Animated.Value(0)).current;
   return (
     <View style={styles.container}>
-      <StatusBar hidden />
       <BackDrop scrollX={scrollX} />
       <Animated.FlatList
         data={DATA}

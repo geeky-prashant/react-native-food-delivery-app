@@ -5,7 +5,6 @@ import {
   Image,
   ScrollView,
   TouchableOpacity,
-  StatusBar,
 } from "react-native";
 import * as Icon from "react-native-feather";
 import { themeColors } from "./../theme/index";
@@ -29,7 +28,6 @@ export default RestaurantScreen = () => {
 
   return (
     <>
-      <StatusBar backgroundColor="#000000" barStyle="light-content" />
       <View>
         <CartIcon />
         <ScrollView>
