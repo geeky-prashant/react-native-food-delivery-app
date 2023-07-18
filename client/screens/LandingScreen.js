@@ -19,7 +19,7 @@ const DATA = [
     title: "🌟 Discover",
     description:
       "Browse through an extensive menu featuring mouthwatering dishes from local restaurants. From Italian classics to exotic Asian flavors, we have something for everyone's taste buds. Let's get started!",
-    image: require("../assets/landingPage/borger.png"),
+    image: require("../assets/landingPage/burger.png"),
     style: {
       width: width,
       height: height,
